@@ -1,0 +1,41 @@
+Python Variables Tasks:
+
+1)Define a variable of type bool
+ans: b = true 
+
+2)What Is the benefit of the type method?
+ans: the benefit of the type method is to know the type of the variable.
+
+3)Can we use semi colon ; with python?
+ans: yes, we can use semi colon with python.
+
+4)Python is interpreted or compiled?
+ans: python is an interpreted language.
+
+5)What is the differences between low level &amp; high level?
+ans: -low level is the language of the computer (0,1) so it runs faster >> like c 
+     -high level programming languages are easy to use and portable such as (c#, python, java and visual basics.net)
+#####################################################################################################################
+
+Python Operators Tasks:
+
+1)What is the differences between = , == ?
+
+ans: -this "=" means an operator and we use it when we wanna make a variable
+     ex: var = "string"
+     hear we call "var" as variable and "=" as operator and ("string") would be the value of the variable.
+
+     -this "==" means equal and we use it when we wanna check if the value of two variables are equal or not.
+2)What do we mean by using !=
+
+ans: it means not equal and we use it when we wanna check if the value of two variables are not equal
+
+3)What is the operator precedence?
+
+ans: 1) ()
+     2) **
+     3) x and /
+     4) + and -
+
+
+
